@@ -239,6 +239,14 @@ const emojiItems = [
         type: "movie",
         year: 1982
     },
+	{
+        title: "Eurotrip",
+        emojiImgs: "😇🤣👏",
+        genres: ["comedy"],
+        type: "movie",
+        year: 2004
+		itemLink:https://www.imdb.com/title/tt0356150/
+    },
     {
         title: "Fargo",
         emojiImgs: "🚔🌳👶🏻⚰️",
